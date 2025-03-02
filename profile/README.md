@@ -1,4 +1,4 @@
-# 🌐 Welcome to [Your Organization Name]!
+# 🌐 Welcome to Web Design !
 
 🚀 **Crafting Beautiful & Responsive Web Designs**  
 🎨 **Expertise:** HTML5, CSS3, Tailwind CSS  
@@ -16,12 +16,6 @@ We specialize in modern, pixel-perfect web designs using **HTML5, CSS3, and Tail
 
 ---
 
-## 🚀 Featured Projects
-🔹 **[Project Name](https://github.com/org/repo)** – A sleek, responsive landing page.  
-🔹 **[Portfolio Website](https://github.com/org/repo)** – Showcasing creative UI designs.  
-🔹 **[Dashboard UI](https://github.com/org/repo)** – Modern admin panel with Tailwind.  
-
----
 
 ## 🛠 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,9 +23,6 @@ We specialize in modern, pixel-perfect web designs using **HTML5, CSS3, and Tail
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
-
-## 📬 Connect With Us
-🌐 [Website](https://yourwebsite.com) | 🐦 [Twitter](https://twitter.com/yourhandle) | 📸 [Instagram](https://instagram.com/yourhandle)  
 
 💡 *Let’s build something amazing together!*
 
